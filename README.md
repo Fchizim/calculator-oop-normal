@@ -7,4 +7,4 @@ This is a system with a normal calculator and oop calculator
 4. JS
 
 # Follow me on
-Twitter - (@fred_chizim)[https://www.twitter.com/fred_chizim "fred"]
+Twitter - [@fred_chizim](https://www.twitter.com/fred_chizim "fred")
